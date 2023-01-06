@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋 I'm Lara, a big data student 👩‍💻 🚀</div>  
   
 
-- 🌱 I’m currently studying a Master in Dig Data Analytics in [EDEM](https://edem.eu/)  
+- 🌱 I’m currently studying a Master in Big Data Analytics in [EDEM](https://edem.eu/)  
   
 
 - ⚡ Fun fact: I speak German, English and Spanish  
