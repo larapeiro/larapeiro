@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://media.istockphoto.com/id/1256213257/vector/working-at-home-coworking-space-and-home-office-concept-freelancer-women-working-at-home.jpg?s=612x612&w=0&k=20&c=uRjObagBZcZPBKNkwbapzWjzYHySQwCaaW7fRYutxHc=" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Hi 👋 I'm Lara, a big data student 👩‍💻 🚀</div>  
